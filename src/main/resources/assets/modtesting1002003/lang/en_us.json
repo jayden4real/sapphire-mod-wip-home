@@ -1,0 +1,19 @@
+{
+  "item.modtesting1002003.sapphire": "Sapphire",
+
+  "block.modtesting1002003.sapphire_block": "Block of Sapphire",
+  "block.modtesting1002003.sapphire_ore": "Sapphire Ore",
+
+  "item.modtesting1002003.sapphire_sword": "Sapphire Sword",
+  "item.modtesting1002003.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.modtesting1002003.sapphire_axe": "Sapphire Axe",
+  "item.modtesting1002003.sapphire_shovel": "Sapphire Shovel",
+  "item.modtesting1002003.sapphire_hoe": "Sapphire Hoe",
+
+  "item.modtesting1002003.sapphire_helmet": "Sapphire Helmet",
+  "item.modtesting1002003.sapphire_chestplate": "Sapphire Chestplate",
+  "item.modtesting1002003.sapphire_leggings": "Sapphire Leggings",
+  "item.modtesting1002003.sapphire_boots": "Sapphire Boots",
+
+  "itemgroup.modded": "Modded Items"
+}
